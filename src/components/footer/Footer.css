@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 12px 0;
+}
+.footer-contact,
+.footer-help,
+.footer-feedback{
+    text-align: center;
+}
+.footer-help-title,
+.footer-feedback-title,
+.footer-contact-title{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    display: block;
+    margin-bottom: 12px;
+}
+.footer-contact-content{
+    display: flex;
+    justify-content: center;
+}
+.footer-contact-img{
+    width: 10%;
+    object-fit: cover;
+    display: block;
+    margin: 0 4px;
+    cursor: pointer;
+}
