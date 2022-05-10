@@ -4,7 +4,7 @@ function Introduce() {
         <div className="introduce">
             <div className='introduce-container'>
                 <div className="introduce-img-wrap">
-                    <img className="introduce-img" src="/imgs/logo1.png" alt=""></img>
+                    <img className="introduce-img" src="volunteers-app/imgs/logo1.png" alt=""></img>
                 </div>
                 <div className='introduce-content'>
                     <span className='introduce-content-title'>Introduce</span>

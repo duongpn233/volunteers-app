@@ -13,9 +13,9 @@ function Footer() {
             <div className='footer-contact'>
                 <span className='footer-contact-title'>Contact</span>
                 <div className='footer-contact-content'>
-                    <img className='footer-contact-img' src='/imgs/fb.png' alt=''></img>
-                    <img className='footer-contact-img' src='/imgs/ig.png' alt=''></img>
-                    <img className='footer-contact-img' src='/imgs/tw.png' alt=''></img>
+                    <img className='footer-contact-img' src='volunteers-app/imgs/fb.png' alt=''></img>
+                    <img className='footer-contact-img' src='volunteers-app/imgs/ig.png' alt=''></img>
+                    <img className='footer-contact-img' src='volunteers-app/imgs/tw.png' alt=''></img>
                 </div>
             </div>
         </div>

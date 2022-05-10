@@ -7,9 +7,9 @@ function Banner(){
     }
     return (
         <div className='banner'>
-            <img className='banner-img' src='/imgs/banner.png' alt=''></img>
+            <img className='banner-img' src='volunteers-app/imgs/banner.png' alt=''></img>
             <div className='banner-btn'>
-                <img className='banner-btn-img' src='/imgs/btn-login.png' onClick={handleLogin} alt=''></img>
+                <img className='banner-btn-img' src='volunteers-app/imgs/btn-login.png' onClick={handleLogin} alt=''></img>
             </div>
         </div>
     )
