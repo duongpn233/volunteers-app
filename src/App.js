@@ -1,8 +1,7 @@
 import {
   BrowserRouter as Router,
   Route,
-  Routes,
-  HashRouter
+  Routes
 } from "react-router-dom";
 import './App.css';
 import './css/base.css'

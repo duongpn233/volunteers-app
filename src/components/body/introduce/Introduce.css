@@ -33,6 +33,38 @@
 }
 
 .introduce-content-post {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
+    margin: 8px 0;
+    line-height: 28px;
+}
+
+.introduce-post {
+    background-color: #fff;
+    padding: 0 24px;
+    border-left: 4px solid #6b6d6e;
+    border-right: 4px solid #6b6d6e;
+    border-bottom: 4px solid #6b6d6e;
+}
+
+.introduce-post-wrap {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 0;
+    border-bottom: 2px solid #748a95;
+}
+
+.introduce-post-wrap:last-child {
+    border-bottom: none;
+}
+
+.introduce-post-img {
+    width: 30%;
+}
+
+.introduce-post-context {
+    font-size: 24px;
+    font-weight: 400;
+    margin: 8px 24px;
+    line-height: 28px;
 }

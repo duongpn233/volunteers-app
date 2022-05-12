@@ -13,9 +13,15 @@ function Footer() {
             <div className='footer-contact'>
                 <span className='footer-contact-title'>Contact</span>
                 <div className='footer-contact-content'>
-                    <img className='footer-contact-img' src='volunteers-app/imgs/fb.png' alt=''></img>
-                    <img className='footer-contact-img' src='volunteers-app/imgs/ig.png' alt=''></img>
-                    <img className='footer-contact-img' src='volunteers-app/imgs/tw.png' alt=''></img>
+                    <a className='footer-contact-img-wrap' href='https://www.facebook.com/Together-Volunteer-107134348663151'>
+                        <img className='footer-contact-img' src='/imgs/fb.png' alt=''></img>
+                    </a>
+                    <a className='footer-contact-img-wrap' href='https://www.instagram.com/2gethervolunteer/?fbclid=IwAR3lByQGtdwZCo2fPTupBAG60GzJgInB_x8Ggoi4L297Y-LJOUgp68KEFNY'>
+                        <img className='footer-contact-img' src='/imgs/ig.png' alt=''></img>
+                    </a>
+                    <a className='footer-contact-img-wrap' href='https://twitter.com/TogetherVolunt1?fbclid=IwAR262uHBxcvecmVzIbGA0j80wTDWMdvX0fsuZaFW402hGTq91SWUsYQ9TGk'>
+                        <img className='footer-contact-img' src='/imgs/tw.png' alt=''></img>
+                    </a>
                 </div>
             </div>
         </div>
